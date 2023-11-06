@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/zip-code-locator/static/css/main.e6c13ad2.css",
+    "main.js": "/zip-code-locator/static/js/main.c01e87a9.js",
+    "static/js/787.03df7f03.chunk.js": "/zip-code-locator/static/js/787.03df7f03.chunk.js",
+    "static/media/99.gif": "/zip-code-locator/static/media/99.19b90db10a4e695fbb69.gif",
+    "index.html": "/zip-code-locator/index.html",
+    "main.e6c13ad2.css.map": "/zip-code-locator/static/css/main.e6c13ad2.css.map",
+    "main.c01e87a9.js.map": "/zip-code-locator/static/js/main.c01e87a9.js.map",
+    "787.03df7f03.chunk.js.map": "/zip-code-locator/static/js/787.03df7f03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c01e87a9.js"
+  ]
+}
